@@ -1,0 +1,1 @@
+Caso sintético para verificar a proteção de main.
